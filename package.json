@@ -1,0 +1,15 @@
+{
+  "name": "google_login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC"
+}
